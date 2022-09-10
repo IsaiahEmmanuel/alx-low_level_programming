@@ -3,11 +3,11 @@
 /*
  * main - Entry point
  *
- * Return: always 0
+ * Return: 0
  */
-int main(void) /* main function*/
+int main(void)
 {
-	char  b;
+	char b;
 
 	for (b = 'a'; b <= 'z'; b++)
 		if (b != 'q' && b != 'e')
