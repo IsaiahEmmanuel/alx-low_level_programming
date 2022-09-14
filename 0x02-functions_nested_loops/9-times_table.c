@@ -3,9 +3,9 @@
 /**
  * times_table - check description
  * Description: It prints 9 times table starting with 0
- * return: Nothing.
+ * Return: Nothing.
  */
-void times_table(void)9-times_table.c
+void times_table(void)
 {
 	int i, j, n;
 
